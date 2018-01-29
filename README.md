@@ -23,6 +23,10 @@ This repo aims to collect useful docs (both in Chinese &amp; English) for CS stu
  * Command Line
  
     (Process Bar)[http://www.cnblogs.com/demin7926/articles/3796536.html]
+ 
+ * Sublime Text 2
+ 
+   (Code Folding)[http://wesbos.com/sublime-text-code-folding/]
    
 # Learning
 
