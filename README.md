@@ -1,6 +1,3 @@
-# Resources
-This repo aims to collect useful docs (both in Chinese &amp; English) for CS students and present in a convenient way.
-
 # Contribution Rules
 
  * DO NO upload files.
@@ -13,25 +10,24 @@ This repo aims to collect useful docs (both in Chinese &amp; English) for CS stu
 
 
 # Coding
-  
- * Naming Conventions
- 
-   (Python Naming Conventions)[http://www.cnblogs.com/zhanglianbo/p/5664997.html]
-   
-   (C++ Naming Conventions)[http://www.cnblogs.com/ggjucheng/archive/2011/12/15/2289291.html]
-   
- * Command Line
- 
-    (Process Bar)[http://www.cnblogs.com/demin7926/articles/3796536.html]
- 
- * Sublime Text 2
- 
-   (Code Folding)[http://wesbos.com/sublime-text-code-folding/]
+  
+## Naming Conventions
+* [Python Naming Conventions](http://www.cnblogs.com/zhanglianbo/p/5664997.html)  
+  
+* [C++ Naming Conventions](http://www.cnblogs.com/ggjucheng/archive/2011/12/15/2289291.html)
    
-# Learning
+## Command Line
+ 
+* [Process Bar](http://www.cnblogs.com/demin7926/articles/3796536.html): Create process bar in C and Python
+ 
+## Sublime Text 2
+ 
+* [Code Folding](http://wesbos.com/sublime-text-code-folding/): Sublime shortcuts for code folding
+   
+## Study Resources
 
-  * Video Action Recognition
+ ### Video Action Recognition
 
-    (Action Recognition)[https://github.com/jindongwang/activityrecognition]
-    
+* [Action Recognition](https://github.com/jindongwang/activityrecognition)
+    
     
