@@ -24,9 +24,9 @@
  
 * [Code Folding](http://wesbos.com/sublime-text-code-folding/): Sublime shortcuts for code folding
    
-## Study Resources
+# Study Resources
 
- ### Video Action Recognition
+ ## Video Action Recognition
 
 * [Action Recognition](https://github.com/jindongwang/activityrecognition)
     
