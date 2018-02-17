@@ -23,6 +23,10 @@
 ## Sublime Text 2
  
 * [Code Folding](http://wesbos.com/sublime-text-code-folding/): Sublime shortcuts for code folding
+
+## Python
+
+* [Remove non-ascii chars](https://stackoverflow.com/questions/8689795/how-can-i-remove-non-ascii-characters-but-leave-periods-and-spaces-using-python)
    
 # Study Resources
 
