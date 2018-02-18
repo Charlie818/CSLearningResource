@@ -27,6 +27,8 @@
 ## Python
 
 * [Remove non-ascii chars](https://stackoverflow.com/questions/8689795/how-can-i-remove-non-ascii-characters-but-leave-periods-and-spaces-using-python)
+
+* [Split Text Without Spaces](https://stackoverflow.com/questions/8870261/how-to-split-text-without-spaces-into-list-of-words)
    
 # Study Resources
 
