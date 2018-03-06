@@ -32,6 +32,9 @@
 
 * [Djano Context in Template](http://blog.csdn.net/zhangxinrun/article/details/8095118)
 
+## Javascript
+
+* [Chrome Bug in Setting CurrentTime of Video](https://stackoverflow.com/questions/35751736/seeking-in-html5-video-with-chrome)
 # Study Resources
 
  ## Video Action Recognition
