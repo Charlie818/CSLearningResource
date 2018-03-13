@@ -35,6 +35,11 @@
 ## Javascript
 
 * [Chrome Bug in Setting CurrentTime of Video](https://stackoverflow.com/questions/35751736/seeking-in-html5-video-with-chrome)
+
+## Shell
+
+* [Symbolic Links](http://www.cnblogs.com/joeblackzqq/archive/2011/03/20/1989625.html)
+
 # Study Resources
 
  ## Video Action Recognition
