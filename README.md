@@ -40,6 +40,10 @@
 
 * [Symbolic Links](http://www.cnblogs.com/joeblackzqq/archive/2011/03/20/1989625.html)
 
+## Git
+
+* [Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+
 # Study Resources
 
  ## Video Action Recognition
