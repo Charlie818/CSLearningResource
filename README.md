@@ -12,8 +12,7 @@
 # Coding
   
 ## Naming Conventions
-* [Python Naming Conventions](http://www.cnblogs.com/zhanglianbo/p/5664997.html)  
-  
+
 * [C++ Naming Conventions](http://www.cnblogs.com/ggjucheng/archive/2011/12/15/2289291.html)
    
 ## Command Line
@@ -26,11 +25,20 @@
 
 ## Python
 
+* [Python Programming Instructions](https://blog.csdn.net/zhoudaxia/article/details/23341261)
+
+* [Python Decoration](http://www.cnblogs.com/rhcad/archive/2011/12/21/2295507.html)
+
 * [Remove non-ascii chars](https://stackoverflow.com/questions/8689795/how-can-i-remove-non-ascii-characters-but-leave-periods-and-spaces-using-python)
 
 * [Split Text Without Spaces](https://stackoverflow.com/questions/8870261/how-to-split-text-without-spaces-into-list-of-words)
 
 * [Djano Context in Template](http://blog.csdn.net/zhangxinrun/article/details/8095118)
+
+* [Naming Conventions](http://www.cnblogs.com/zhanglianbo/p/5664997.html)  
+
+* [Coding Style](https://www.python.org/dev/peps/pep-0008/)
+  
 
 ## Javascript
 
