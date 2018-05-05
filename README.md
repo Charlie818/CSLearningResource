@@ -47,6 +47,7 @@
 ## Shell
 
 * [Symbolic Links](http://www.cnblogs.com/joeblackzqq/archive/2011/03/20/1989625.html)
+* SSH Shared Folder: sudo sshfs -d -o allow_other -o reconnect -o ServerAliveInterval=15 user@xxx.xxx.xxx.xxx:/remote/folder -o IdentityFile=/path/to/identity/file /local/folder -p xxxx -C 
 
 ## Git
 
